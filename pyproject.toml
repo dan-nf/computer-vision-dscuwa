@@ -1,0 +1,10 @@
+[project]
+name = "computer-vision-dscuwa"
+classifiers = ["Private :: Do Not Upload"]
+version = "0.0.0"
+requires-python = ">= 3.10"
+dependencies = [
+    "pip-tools~=7.5.0",
+    "plotly~=6.2.0",
+    "scikit-image~=0.25.2",
+]
