@@ -14,7 +14,7 @@ Install this project's dependencies:
 pip install -r requirements.txt -e .
 ```
 
-## 1. Basics
+## 1. Basics and classical CV
 
 ## 2. Convolutional Neural Networks
 
