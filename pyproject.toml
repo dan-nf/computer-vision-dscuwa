@@ -12,6 +12,6 @@ dependencies = [
     "plotly~=6.2.0",
     "scikit-image~=0.25.2",
     "shap~=0.48.0",
-    "torch~=2.8.0+cu126",
+    "torch~=2.8.0",
     "torchvision~=0.23.0",
 ]
